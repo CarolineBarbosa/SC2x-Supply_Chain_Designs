@@ -2,8 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
+
 ## other files
 *.pdf
+*/GradedAssignment
 
 
 # C extensions
